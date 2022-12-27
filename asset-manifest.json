@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.5a1ecfb2.js",
+    "static/js/680.afda123b.chunk.js": "/goit-react-hw-05-movies/static/js/680.afda123b.chunk.js",
+    "static/js/50.55157fe6.chunk.js": "/goit-react-hw-05-movies/static/js/50.55157fe6.chunk.js",
+    "static/js/53.3a3edd6d.chunk.js": "/goit-react-hw-05-movies/static/js/53.3a3edd6d.chunk.js",
+    "static/js/343.28e7099b.chunk.js": "/goit-react-hw-05-movies/static/js/343.28e7099b.chunk.js",
+    "static/js/544.8c236096.chunk.js": "/goit-react-hw-05-movies/static/js/544.8c236096.chunk.js",
+    "static/js/468.2653e491.chunk.js": "/goit-react-hw-05-movies/static/js/468.2653e491.chunk.js",
+    "index.html": "/goit-react-hw-05-movies/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
+    "main.5a1ecfb2.js.map": "/goit-react-hw-05-movies/static/js/main.5a1ecfb2.js.map",
+    "680.afda123b.chunk.js.map": "/goit-react-hw-05-movies/static/js/680.afda123b.chunk.js.map",
+    "50.55157fe6.chunk.js.map": "/goit-react-hw-05-movies/static/js/50.55157fe6.chunk.js.map",
+    "53.3a3edd6d.chunk.js.map": "/goit-react-hw-05-movies/static/js/53.3a3edd6d.chunk.js.map",
+    "343.28e7099b.chunk.js.map": "/goit-react-hw-05-movies/static/js/343.28e7099b.chunk.js.map",
+    "544.8c236096.chunk.js.map": "/goit-react-hw-05-movies/static/js/544.8c236096.chunk.js.map",
+    "468.2653e491.chunk.js.map": "/goit-react-hw-05-movies/static/js/468.2653e491.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.5a1ecfb2.js"
   ]
 }
